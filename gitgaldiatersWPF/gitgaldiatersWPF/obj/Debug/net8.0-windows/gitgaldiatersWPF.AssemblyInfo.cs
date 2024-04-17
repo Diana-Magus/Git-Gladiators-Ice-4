@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gitgaldiatersWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98c8b7216ac1acb364604e2de7d42fe148f7aa59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e91aad32bb49fff2cacff373b7609438d2e7bf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("gitgaldiatersWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gitgaldiatersWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
